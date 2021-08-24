@@ -1,0 +1,18 @@
+============ Model Summary =============
+==                                    ==
+==        Model name: XSeg            ==
+==                                    ==
+== Current iteration: 143791          ==
+==                                    ==
+==---------- Model Options -----------==
+==                                    ==
+==         face_type: wf              ==
+==        batch_size: 4               ==
+==                                    ==
+==------------ Running On ------------==
+==                                    ==
+==      Device index: 0               ==
+==              Name: Quadro RTX 6000 ==
+==              VRAM: 21.33GB         ==
+==                                    ==
+========================================

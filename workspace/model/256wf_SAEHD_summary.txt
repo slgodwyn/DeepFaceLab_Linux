@@ -1,0 +1,41 @@
+================= Model Summary =================
+==                                             ==
+==            Model name: 256wf_SAEHD          ==
+==                                             ==
+==     Current iteration: 1000000              ==
+==                                             ==
+==--------------- Model Options ---------------==
+==                                             ==
+==            resolution: 256                  ==
+==             face_type: wf                   ==
+==     models_opt_on_gpu: True                 ==
+==                 archi: df-ud                ==
+==               ae_dims: 256                  ==
+==                e_dims: 64                   ==
+==                d_dims: 64                   ==
+==           d_mask_dims: 22                   ==
+==       masked_training: True                 ==
+==             eyes_prio: False                ==
+==           uniform_yaw: True                 ==
+==            lr_dropout: n                    ==
+==           random_warp: False                ==
+==             gan_power: 0.0                  ==
+==       true_face_power: 0.0                  ==
+==      face_style_power: 0.0                  ==
+==        bg_style_power: 0.0                  ==
+==               ct_mode: none                 ==
+==              clipgrad: False                ==
+==              pretrain: True                 ==
+==       autobackup_hour: 0                    ==
+== write_preview_history: False                ==
+==           target_iter: 1000000              ==
+==           random_flip: True                 ==
+==            batch_size: 16                   ==
+==                                             ==
+==---------------- Running On -----------------==
+==                                             ==
+==          Device index: 0                    ==
+==                  Name: Tesla V100-SXM2-16GB ==
+==                  VRAM: 15.75GB              ==
+==                                             ==
+=================================================
